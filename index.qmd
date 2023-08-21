@@ -1,7 +1,10 @@
 ---
 title: References
 nocite: |
-  @*
+  @Wu-Jia-2013
+  @Zhang-Wang-2012
+  @Zhang-Wang-Tong-2015
+  @Pesigan-Cheung-2023
 ---
 
 ::: {#refs}

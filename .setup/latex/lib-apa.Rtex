@@ -69,12 +69,19 @@
 
 \begin{center}
     \LARGE
-    \textbf{Ivan Jacob Agaloos Pesigan} \\
+    \textbf{Mediation (Missing Data)} \\
+    Ivan Jacob Agaloos Pesigan \\
     \large
-    \textbf{\today}
+    \today
 \end{center}
 
-\nocite{*}
+\nocite{Wu-Jia-2013}
+
+\nocite{Zhang-Wang-2012}
+
+\nocite{Zhang-Wang-Tong-2015}
+
+\nocite{Pesigan-Cheung-2023}
 
 \printbibliography
 
